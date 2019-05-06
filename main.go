@@ -7,7 +7,6 @@ import (
 	"bytes"
 	"time"
 	"strconv"
-	"math/rand"
 )
 
 func exec_shell(arg ...string) (string, error){
